@@ -4,6 +4,7 @@ Welcome to Boating School,  a Spongebob activity that simulates a system that tr
 
 Associations:
 
+Student -< Boating Test >-Instructor
 ![alt text][chart]
 
 [chart]: https://curriculum-content.s3.amazonaws.com/module-1/ruby-oo-relationships/practice-boating-school-exercise/Image_123_00BoatingSchool.png
